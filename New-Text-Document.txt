@@ -1,0 +1,48 @@
+  <section id="success" class="my-5">
+                    <div class="text-start pt-5">
+                        <h1 class=" display-4 fw-bold">
+                            Meet Our Successfull <br> Students
+                        </h1>
+                        <p class="fs-6 fw-light py-3">This page includes a series of questions that are commonly asked by customers and cover <br> topics  including service usage, business hours, prices, and more.</p>
+                    </div>
+                    <div class="pb-5">
+                        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+                            <div class="col">
+                              <div class="card">
+                                <img src="images/student/student-1.png" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title fw-bold">Awlad Hossain</h5>
+                                  <p class="card-text">UIUX Designer</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col">
+                              <div class="card">
+                                <img src="images/student/student-2.png" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title fw-bold">Jannatul Islam</h5>
+                                  <p class="card-text">Design</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col">
+                              <div class="card">
+                                <img src="images/student/student-3.png" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title fw-bold">Imran Hossain</h5>
+                                  <p class="card-text">Graphic Designer</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col">
+                              <div class="card">
+                                <img src="images/student/student-4.png" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title fw-bold">Nishi Akter</h5>
+                                  <p class="card-text">Web Developer</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                    </div>
+                </section>
